@@ -1,2 +1,2 @@
-# convertor the best new app
+# Convert yen to euros
 convert yen to euro
