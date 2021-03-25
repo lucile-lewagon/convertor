@@ -1,2 +1,2 @@
-# convertor the best new app
+# Convertor is cool
 convert yen to euro
