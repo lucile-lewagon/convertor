@@ -74,6 +74,6 @@ Resoudre les conflicts
 ---
 
 ## Git et Github pour le devops
-Pendant la semaine on vas apprendre executer des actions automatique grace aux changement d'etat de git.
+Pendant la semaine on va apprendre executer des actions automatique grace aux changement d'etat de git.
 On vas apprendre a tester le code automatiquement.
 Et si les test sont bon alors on met la derniere version du code en production automatiquement.
